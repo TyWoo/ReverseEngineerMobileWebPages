@@ -70,31 +70,31 @@ Add videos to the site
 - [smoothscroll.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/smoothscroll.js)
 Plugin to have a smooth scroll
 
-- [owl.carousel.min.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/owl.carousel.min.js)
+- [owl.carousel.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/owl.carousel.min.js) **(unused)**:
 To have a touch carousel
 
-- [custom.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/custom.js)
+- [custom.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/custom.js):
 Has custon functions for the page, do some activities if the page is run on an specific device and use others plugins or libraries such as owlCarousel or jquery
 
-- [navigation.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/navigation.min.js)
+- [navigation.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/navigation.min.js):
 Manage thins as the sizes of centain areas of the page
 
-- [skip-link-focus-fix.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/skip-link-focus-fix.min.js)
+- [skip-link-focus-fix.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/skip-link-focus-fix.min.js):
 This is used to skip a link only applies for webkit, msie and opera
 
-- [comment-reply.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/comment-reply.min.js)
+- [comment-reply.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/comment-reply.min.js):
 To reply to a comment
 
-- [wp-embed.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-embed.min.js)
+- [wp-embed.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-embed.min.js):
 embe code on the site
 
-- [e-201839.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/e-201839.js)
+- [e-201839.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/e-201839.js):
 This controls a tracker
 
-- [wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52) **(loaded for a 2nd time)**
+- [wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52) **(loaded for a 2nd time)**:
 Part of wordpress plugin, ver. 69dd45a6c1792230f53097a3a0fa0f52, to show emojis on the page
 
-- [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js) **(loaded for a 2nd time)**
+- [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js) **(loaded for a 2nd time)**:
 Recapcha plugin.
 
 - [renderScript?form=json&_=1538424100687](https://www.tickerassist.co.uk/ProgressiveTickers/WebServiceProgressiveTickerScript.asmx/renderScript?form=json&_=1538424100687)
