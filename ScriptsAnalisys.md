@@ -1,10 +1,10 @@
 # Script List
 
-The web site, I think is just an .htm this one includes scripts, (wordpress, facebook, to programming, etc), to test the possible candidates for my criteria I mark the ones unused, to know which ones the page isn't used and shall be removed for better performace.
+The web [site](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues.htm#n), I think is just an .htm, taken from [here](https://happiez-traveli.com/aunt-sues-nephew#), this one includes scripts, (wordpress, facebook, to programming, woocommerce), to test the possible candidates. I mark the ones unused, to know which ones the page isn't used and shall be removed for better performance.
 
-## Scripts get on Network tab
+## Main Scripts
 
-1. [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js):
+1. [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js)  **(unused)**:
 Recapcha plugin.
 
 2. [527792464332633](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/527792464332633):
@@ -28,16 +28,16 @@ jQuery user interface code (like animations or transitions, etc)
 8. [datepicker.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js) **(unused)**:
 Manage a datepicker
 
-9. [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js):
+9. [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js) **(unused)**:
 JavaScript library which provides utility functions for common programming tasks.
 
 10. [form.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/form.min.js):
 Used to allow the form used ajax. (used with facebook comments)
 
-11. [photon.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/photon.min.js):
+11. [photon.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/photon.min.js) **(unused)**:
 Load a images when they have the custom attribute data-recalc-dims
 
-12. [api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/api.js):
+12. [api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/api.js) **(unused)**:
 Function to render recapcha
 
 13. [devicepx-jetpack.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/devicepx-jetpack.js):
@@ -76,14 +76,14 @@ To have a touch carousel
 24. [custom.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/custom.js):
 Has custon functions for the page, do some activities if the page is run on an specific device and use others plugins or libraries such as owlCarousel or jquery
 
-25. [navigation.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/navigation.min.js):
+25. [navigation.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/navigation.min.js) **(unused)**:
 Manage thins as the sizes of centain areas of the page
 
 26. [skip-link-focus-fix.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/skip-link-focus-fix.min.js):
 This is used to skip a link only applies for webkit, msie and opera
 
-27. [comment-reply.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/comment-reply.min.js):
-To reply to a comment
+27. [comment-reply.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/comment-reply.min.js)  **(unused)**::
+To leave a comment
 
 28. [wp-embed.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-embed.min.js):
 embe code on the site
@@ -94,15 +94,33 @@ This controls a tracker
 30. [wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52) **(loaded for a 2nd time)**:
 Part of wordpress plugin, ver. 69dd45a6c1792230f53097a3a0fa0f52, to show emojis on the page
 
-31. [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js) **(loaded for a 2nd time)**:
+31. [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js) **(loaded for a 2nd time)**  **(unused)**:
 Recapcha plugin.
 
 32. [renderScript?form=json&_=1538424100687](https://www.tickerassist.co.uk/ProgressiveTickers/WebServiceProgressiveTickerScript.asmx/renderScript?form=json&_=1538424100687)
 Loads and initializes some variables.
 
-## Scripts get on Network tab
+## Other scripts
 
+1. `<script type="text/javascript">
+        jQuery(document).ready(function ($) {$(".progressive15").bind("DOMSubtreeModified",function(){
+               $(".jackpot-number").html($(this).html());
+            });
+        });
+    </script>`
+    Updates the jackpot number every second.
 
+2.  `<script>jQuery(function($){
+        		$('.fosrm').on('submit', function (event) {
+					event.preventDefault();// using this page stop being refreshing
+          			$('#fbModal').modal('show');
+							$('#fbForm').hide();
+							$('#fbConfirm').show();
+							$('#fbFail').hide();
+        		});
+      		});
+	</script>`
+	When appears the popup with the buttons "STOP SEEING THIS AD" and "REPORT THIS PAGE" prevent default actions and make custom (show facebook image like)
 
 # Observations
 
