@@ -228,15 +228,21 @@ Loads and initializes some variables.
 
 # Observations
 
-The following observations are made to improve the page performance.
+## About jQuery vs Javascript
+
+The scripts has both jQuery and Javascript code the use was merely though about performance and understanding of the evaluator.
+
+## The following observations are made to improve the page performance.
 
 1. The javascript scripts must be located before the `</body>` tag this improves the page speeed loading.
 2. The javascript scripts must have the type `<script type="text/javascript">` tag.
-3. To avoid render blocking the javascript must have the [async or defer](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html) when it's possible.
+3. To avoid render blocking the javascript must have the [async or defer](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html) when it's possible and include them from 1 file if possible, the fewer files the better.
 4. There must be 1 call to `ready` function of jquery this optimize the code and doesn't make to many calls to this function.
 5. Put all the `<script type="text/javascript"></script>` in one.
 6. The css code must be located on the head tag `<head></head>`.
-7. The inline styles must be removed and put on the the head, the inline style generate blocking on the render page.
-8. Remove the inline javascript calls such as `onclick="` for better performace.
-9. Remove all unused javascript code (marked with **unused**)
-10. A final recomendation is to use a [lazy load](https://github.com/rgrove/lazyload) script for the javascript and the CSS code this helps a lot to avoid render blocking and respect the scripts order.
+7. The inline styles must be removed and put on the the head, 1 file is preferred, the inline style generate blocking on the render page.
+8. the styles must be on the tag `<style type="text/css">`
+9. Remove the inline javascript calls such as `onclick="` for better performace.
+10. Remove all unused javascript code (marked with **unused**)
+11. Minify the CSS and Javascript code this helps to load the files faster (the less a file size is, the faster it can be transfer through internet.)
+12. A final recomendation is to use a [lazy load](https://github.com/rgrove/lazyload) script for the javascript and the CSS code this helps a lot to avoid render blocking and respect the scripts order.
