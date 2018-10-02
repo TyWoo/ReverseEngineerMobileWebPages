@@ -4,16 +4,16 @@ The web site, I think is just an .htm this one includes scripts, (wordpress, fac
 
 ## Scripts get on Network tab
 
-- [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js):
+1. [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js):
 Recapcha plugin.
 
-- [527792464332633](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/527792464332633):
+2. [527792464332633](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/527792464332633):
 I have no idea
 
-- [fbevents.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/fbevents.js):
+3. [fbevents.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/fbevents.js):
 Manage facebook events on the current page (comments for example)
 
-- [wp-emoji-release.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js):
+4. [wp-emoji-release.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js):
 Part of wordpress plugin to show emojis on the page
 
 - [jquery.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.js):
@@ -25,7 +25,7 @@ Restores the APIs that were removed, and additionally shows warnings in the brow
 - [core.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/core.min.js):
 jQuery user interface code (like animations or transitions, etc)
 
-- [datepicker.min.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js) **(unused)**:
+- [datepicker.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js) **(unused)**:
 Manage a datepicker
 
 - [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js):
