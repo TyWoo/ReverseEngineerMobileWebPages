@@ -1,6 +1,8 @@
 # Script List
 
-The web site, I think ios just an .htm this one includes scripts, (wordpress, facebook, to programming, etc), to test the possible candidates for my criteria I mark the ones unused,  to know which ones the page isn't used and shall be removed for better performace.
+The web site, I think is just an .htm this one includes scripts, (wordpress, facebook, to programming, etc), to test the possible candidates for my criteria I mark the ones unused, to know which ones the page isn't used and shall be removed for better performace.
+
+## Scripts get on Network tab
 
 - [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js)
 Recapcha plugin.
@@ -24,7 +26,7 @@ Restores the APIs that were removed, and additionally shows warnings in the brow
 jQuery user interface code (like animations or transitions, etc)
 
 - [datepicker.min.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js)
-Manage a datepicker 
+Manage a datepicker
 
 - [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js)
 JavaScript library which provides utility functions for common programming tasks.
@@ -96,4 +98,17 @@ Part of wordpress plugin, ver. 69dd45a6c1792230f53097a3a0fa0f52, to show emojis 
 Recapcha plugin.
 
 - [renderScript?form=json&_=1538424100687](https://www.tickerassist.co.uk/ProgressiveTickers/WebServiceProgressiveTickerScript.asmx/renderScript?form=json&_=1538424100687)
-loads and initializes some variables.
+Loads and initializes some variables.
+
+## Scripts get on Network tab
+
+
+
+# Observations
+
+- The javascript scripts must be located before the `</body>` tag this improves the page speeed loading.
+- The javascript scripts must have the type `<script type="text/javascript">` tag.
+- To avoid render blocking the javascript must have the [async or defer](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html) when it's possible.
+- There must be 1 call to `ready` function of jquery this optimize the code and doesn't make to many calls to this function.
+- Put all the `<script type="text/javascript"></script>` in one.
+- The css code must be located on the head tag `<head></head>`.
