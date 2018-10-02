@@ -4,70 +4,70 @@ The web site, I think is just an .htm this one includes scripts, (wordpress, fac
 
 ## Scripts get on Network tab
 
-- [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js)
+- [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js):
 Recapcha plugin.
 
-- [527792464332633](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/527792464332633)
+- [527792464332633](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/527792464332633):
 I have no idea
 
-- [fbevents.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/fbevents.js)
+- [fbevents.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/fbevents.js):
 Manage facebook events on the current page (comments for example)
 
-- [wp-emoji-release.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js)
+- [wp-emoji-release.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js):
 Part of wordpress plugin to show emojis on the page
 
-- [jquery.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.js)
+- [jquery.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.js):
 jquery library to manage easily javascript code.  v1.12.4
 
-- [jquery-migrate.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery-migrate.min.js)
+- [jquery-migrate.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery-migrate.min.js):
 Restores the APIs that were removed, and additionally shows warnings in the browser console (development version of jQuery Migrate only) when removed and/or deprecated APIs are used.
 
-- [core.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/core.min.js)
+- [core.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/core.min.js):
 jQuery user interface code (like animations or transitions, etc)
 
-- [datepicker.min.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js)
+- [datepicker.min.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js) **(unused)**:
 Manage a datepicker
 
-- [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js)
+- [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js):
 JavaScript library which provides utility functions for common programming tasks.
 
-- [form.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/form.min.js)
+- [form.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/form.min.js):
 Used to allow the form used ajax. (used with facebook comments)
 
-- [photon.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/photon.min.js)
+- [photon.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/photon.min.js):
 Load a images when they have the custom attribute data-recalc-dims
 
-- [api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/api.js)
+- [api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/api.js):
 Function to render recapcha
 
-- [devicepx-jetpack.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/devicepx-jetpack.js)
+- [devicepx-jetpack.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/devicepx-jetpack.js):
 Part of wordpress plugin to show avatars on screen of big resolution
 
-- [backbone.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/backbone.min.js)
+- [backbone.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/backbone.min.js):
 Give your JS App some Backbone with Models, Views, Collections and key-values
 
-- [wp-api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-api.js)
+- [wp-api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-api.js):
 Uses backbone to formats dates, show media, on wordpress posts
 
-- [bootstrap.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/bootstrap.min.js)
+- [bootstrap.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/bootstrap.min.js):
 Library to use javascript to built responsive design web sites.
 
-- [jquery.mb.YTPlayer.min.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.mb.YTPlayer.min.js)
+- [jquery.mb.YTPlayer.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.mb.YTPlayer.min.js) **(unused)**:
 Use a custom youtube player for a video as background on jQuery framework
 
-- [jqBootstrapValidation.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jqBootstrapValidation.js)
+- [jqBootstrapValidation.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jqBootstrapValidation.js):
 To validate forms (need bootstrap.min.js)
 
-- [jquery.flexslider-min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.flexslider-min.js)
+- [jquery.flexslider-min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.flexslider-min.js):
 To have a responsive slider on the page
 
-- [jquery.magnific-popup.min.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.magnific-popup.min.js)
+- [jquery.magnific-popup.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.magnific-popup.min.js) **(unused)**:
 To have a responsive popup to show images
 
-- [jquery.fitvids.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.fitvids.js)
+- [jquery.fitvids.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.fitvids.js) **(unused)**:
 Add videos to the site
 
-- [smoothscroll.js (unused)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/smoothscroll.js)
+- [smoothscroll.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/smoothscroll.js) **(unused)**:
 Plugin to have a smooth scroll
 
 - [owl.carousel.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/owl.carousel.min.js) **(unused)**:
