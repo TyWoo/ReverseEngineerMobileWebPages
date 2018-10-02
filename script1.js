@@ -1,4 +1,5 @@
 ; // Requires jQuery 1.9.1
+// This script mjust be called on every page or 'main container' the user wants to see the top bar.
 //Creates and add the styles for the top bar and the modal
 var style = document.createElement('style');
 style.type = 'text/css';
