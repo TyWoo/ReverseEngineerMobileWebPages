@@ -230,7 +230,7 @@ Loads and initializes some variables.
 
 ## About jQuery vs Javascript
 
-The scripts has both jQuery and Javascript code the use was merely though about performance and understanding of the evaluator.
+The scripts has both jQuery and Javascript code the use was merely though about performance and understanding of the evaluator. Check their comments for better understanding. I created 2, [script1](https://github.com/jeffarrubla/ReverseEngineerMobileWebPages/blob/master/script1.js) and [script2](https://github.com/jeffarrubla/ReverseEngineerMobileWebPages/blob/master/script2.js), merely thinking on the 2 problems but ideally they should be 1 script and minified.
 
 ## The following observations are made to improve the page performance.
 
@@ -244,5 +244,5 @@ The scripts has both jQuery and Javascript code the use was merely though about 
 8. the styles must be on the tag `<style type="text/css">`
 9. Remove the inline javascript calls such as `onclick="` for better performace.
 10. Remove all unused javascript code (marked with **unused**)
-11. Minify the CSS and Javascript code this helps to load the files faster (the less a file size is, the faster it can be transfer through internet.)
+11. Minify the CSS and Javascript code this helps to load the files faster (the less a file size is, the faster it can be transfer through internet).
 12. A final recomendation is to use a [lazy load](https://github.com/rgrove/lazyload) script for the javascript and the CSS code this helps a lot to avoid render blocking and respect the scripts order.
