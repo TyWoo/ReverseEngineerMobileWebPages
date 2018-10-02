@@ -237,4 +237,6 @@ The following observations are made to improve the page performance.
 5. Put all the `<script type="text/javascript"></script>` in one.
 6. The css code must be located on the head tag `<head></head>`.
 7. The inline styles must be removed and put on the the head, the inline style generate blocking on the render page.
-8. Remove the inline javascript calls such as `onclick="`r fo better performace.
+8. Remove the inline javascript calls such as `onclick="` for better performace.
+9. Remove all unused javascript code (marked with **unused**)
+10. A final recomendation is to use a [lazy load](https://github.com/rgrove/lazyload) script for the javascript and the CSS code this helps a lot to avoid render blocking and respect the scripts order.
