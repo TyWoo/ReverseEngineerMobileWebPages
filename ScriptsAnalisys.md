@@ -16,88 +16,88 @@ Manage facebook events on the current page (comments for example)
 4. [wp-emoji-release.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js):
 Part of wordpress plugin to show emojis on the page
 
-- [jquery.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.js):
+5. [jquery.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.js):
 jquery library to manage easily javascript code.  v1.12.4
 
-- [jquery-migrate.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery-migrate.min.js):
+6. [jquery-migrate.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery-migrate.min.js):
 Restores the APIs that were removed, and additionally shows warnings in the browser console (development version of jQuery Migrate only) when removed and/or deprecated APIs are used.
 
-- [core.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/core.min.js):
+7. [core.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/core.min.js):
 jQuery user interface code (like animations or transitions, etc)
 
-- [datepicker.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js) **(unused)**:
+8. [datepicker.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/datepicker.min.js) **(unused)**:
 Manage a datepicker
 
-- [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js):
+9. [underscore.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/underscore.min.js):
 JavaScript library which provides utility functions for common programming tasks.
 
-- [form.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/form.min.js):
+10. [form.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/form.min.js):
 Used to allow the form used ajax. (used with facebook comments)
 
-- [photon.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/photon.min.js):
+11. [photon.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/photon.min.js):
 Load a images when they have the custom attribute data-recalc-dims
 
-- [api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/api.js):
+12. [api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/api.js):
 Function to render recapcha
 
-- [devicepx-jetpack.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/devicepx-jetpack.js):
+13. [devicepx-jetpack.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/devicepx-jetpack.js):
 Part of wordpress plugin to show avatars on screen of big resolution
 
-- [backbone.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/backbone.min.js):
+14. [backbone.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/backbone.min.js):
 Give your JS App some Backbone with Models, Views, Collections and key-values
 
-- [wp-api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-api.js):
+15. [wp-api.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-api.js):
 Uses backbone to formats dates, show media, on wordpress posts
 
-- [bootstrap.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/bootstrap.min.js):
+16. [bootstrap.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/bootstrap.min.js):
 Library to use javascript to built responsive design web sites.
 
-- [jquery.mb.YTPlayer.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.mb.YTPlayer.min.js) **(unused)**:
+17. [jquery.mb.YTPlayer.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.mb.YTPlayer.min.js) **(unused)**:
 Use a custom youtube player for a video as background on jQuery framework
 
-- [jqBootstrapValidation.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jqBootstrapValidation.js):
+18. [jqBootstrapValidation.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jqBootstrapValidation.js):
 To validate forms (need bootstrap.min.js)
 
-- [jquery.flexslider-min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.flexslider-min.js):
+19. [jquery.flexslider-min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.flexslider-min.js):
 To have a responsive slider on the page
 
-- [jquery.magnific-popup.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.magnific-popup.min.js) **(unused)**:
+20. [jquery.magnific-popup.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.magnific-popup.min.js) **(unused)**:
 To have a responsive popup to show images
 
-- [jquery.fitvids.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.fitvids.js) **(unused)**:
+21. [jquery.fitvids.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/jquery.fitvids.js) **(unused)**:
 Add videos to the site
 
-- [smoothscroll.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/smoothscroll.js) **(unused)**:
+22. [smoothscroll.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/smoothscroll.js) **(unused)**:
 Plugin to have a smooth scroll
 
-- [owl.carousel.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/owl.carousel.min.js) **(unused)**:
+23. [owl.carousel.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/owl.carousel.min.js) **(unused)**:
 To have a touch carousel
 
-- [custom.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/custom.js):
+24. [custom.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/custom.js):
 Has custon functions for the page, do some activities if the page is run on an specific device and use others plugins or libraries such as owlCarousel or jquery
 
-- [navigation.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/navigation.min.js):
+25. [navigation.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/navigation.min.js):
 Manage thins as the sizes of centain areas of the page
 
-- [skip-link-focus-fix.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/skip-link-focus-fix.min.js):
+26. [skip-link-focus-fix.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/skip-link-focus-fix.min.js):
 This is used to skip a link only applies for webkit, msie and opera
 
-- [comment-reply.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/comment-reply.min.js):
+27. [comment-reply.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/comment-reply.min.js):
 To reply to a comment
 
-- [wp-embed.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-embed.min.js):
+28. [wp-embed.min.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-embed.min.js):
 embe code on the site
 
-- [e-201839.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/e-201839.js):
+29. [e-201839.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/e-201839.js):
 This controls a tracker
 
-- [wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52) **(loaded for a 2nd time)**:
+30. [wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52) **(loaded for a 2nd time)**:
 Part of wordpress plugin, ver. 69dd45a6c1792230f53097a3a0fa0f52, to show emojis on the page
 
-- [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js) **(loaded for a 2nd time)**:
+31. [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js) **(loaded for a 2nd time)**:
 Recapcha plugin.
 
-- [renderScript?form=json&_=1538424100687](https://www.tickerassist.co.uk/ProgressiveTickers/WebServiceProgressiveTickerScript.asmx/renderScript?form=json&_=1538424100687)
+32. [renderScript?form=json&_=1538424100687](https://www.tickerassist.co.uk/ProgressiveTickers/WebServiceProgressiveTickerScript.asmx/renderScript?form=json&_=1538424100687)
 Loads and initializes some variables.
 
 ## Scripts get on Network tab
