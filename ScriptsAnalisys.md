@@ -91,10 +91,10 @@ embe code on the site
 - [e-201839.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/e-201839.js)
 This controls a tracker
 
-- [wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52 (load for a 2nd time)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52)
+- [wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/wp-emoji-release.min.js?ver=69dd45a6c1792230f53097a3a0fa0f52) **(loaded for a 2nd time)**
 Part of wordpress plugin, ver. 69dd45a6c1792230f53097a3a0fa0f52, to show emojis on the page
 
-- [recaptcha__en.js (load for a 2nd time)](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js)
+- [recaptcha__en.js](https://comtrckhrd.online/landers/upworkscripts/1_over_bs/aunt_sues_files/recaptcha__en.js) **(loaded for a 2nd time)**
 Recapcha plugin.
 
 - [renderScript?form=json&_=1538424100687](https://www.tickerassist.co.uk/ProgressiveTickers/WebServiceProgressiveTickerScript.asmx/renderScript?form=json&_=1538424100687)
