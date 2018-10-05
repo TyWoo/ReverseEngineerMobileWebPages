@@ -12,7 +12,7 @@ $('<div id="wisepop" class="wisepop-popin">	<a class="wisepop-close" id="close-w
 jQuery(document).ready(function($) {
 	var count = 0;
 	//Check if it's a mobile browser
-	if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|CriOS/i.test(navigator.userAgent)) {
+	if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|CriOS|acebookexternalhit|Facebot|FBAN|FBID/i.test(navigator.userAgent)) {
 		// this of allows to show the message when click on back button on browser
 		if (window.history && window.history.pushState) {
 
