@@ -10,8 +10,9 @@ document.getElementsByTagName('head')[0].appendChild(style);
 $('<div id="wisepop" class="wisepop-popin">	<a class="wisepop-close" id="close-wisepop" href="https://happiez-traveli.com/aunt-sues-nephew#"> </a>	<div id="wisepop-content" class="wisepop-content">		<div class="wisepop-header">			<span >&nbsp;				<div >					<span>						<span>							<span>	      	If We Gave You 100 Free Spins, Could You Win?</span>						</span>					</span>				</div> &nbsp;				<div></div> <div></div> <div></div> <div></div>      		</span>      	</div>      	<div class="daron">      		<a href="https://secure-redirect.co/path/out.php" target="_self">  				<img src="./img/usd.gif">  			</a>      	</div>      	<div class="wisepop-body">      		<a class="wisepop-building-block-action" href="https://secure-redirect.co/path/out.php" target="_self" data-ignore-tracking="0">      	Yes!      	 	</a> 		</div> 		<div data-type="dismiss-links" class="dismiss-links"> 			<a >No, I feel like a looser today</a> 		</div>	</div></div>').prependTo('body');
 
 jQuery(document).ready(function($) {
+	console.log(navigator.userAgent);
 	//Check if it's a mobile browser
-	if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|CriOS/i.test(navigator.userAgent)) {
+	if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini|CriOS|acebookexternalhit|Facebot|FBAN|FBID/i.test(navigator.userAgent)) {
 		// this of allows to show the message when click on back button on browser
 		if (window.history && window.history.pushState) {
 
